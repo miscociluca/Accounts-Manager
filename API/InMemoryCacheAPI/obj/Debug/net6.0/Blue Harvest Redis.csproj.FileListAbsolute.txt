@@ -1,0 +1,34 @@
+C:\Users\misco\Desktop\Blue Harvest Redis\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\misco\Desktop\Blue Harvest Redis\bin\Debug\net6.0\appsettings.json
+C:\Users\misco\Desktop\Blue Harvest Redis\bin\Debug\net6.0\Blue Harvest Redis.exe
+C:\Users\misco\Desktop\Blue Harvest Redis\bin\Debug\net6.0\Blue Harvest Redis.deps.json
+C:\Users\misco\Desktop\Blue Harvest Redis\bin\Debug\net6.0\Blue Harvest Redis.runtimeconfig.json
+C:\Users\misco\Desktop\Blue Harvest Redis\bin\Debug\net6.0\Blue Harvest Redis.dll
+C:\Users\misco\Desktop\Blue Harvest Redis\bin\Debug\net6.0\Blue Harvest Redis.pdb
+C:\Users\misco\Desktop\Blue Harvest Redis\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\misco\Desktop\Blue Harvest Redis\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\misco\Desktop\Blue Harvest Redis\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\misco\Desktop\Blue Harvest Redis\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\misco\Desktop\Blue Harvest Redis\obj\Debug\net6.0\Blue Harvest Redis.csproj.AssemblyReference.cache
+C:\Users\misco\Desktop\Blue Harvest Redis\obj\Debug\net6.0\Blue Harvest Redis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\misco\Desktop\Blue Harvest Redis\obj\Debug\net6.0\Blue Harvest Redis.AssemblyInfoInputs.cache
+C:\Users\misco\Desktop\Blue Harvest Redis\obj\Debug\net6.0\Blue Harvest Redis.AssemblyInfo.cs
+C:\Users\misco\Desktop\Blue Harvest Redis\obj\Debug\net6.0\Blue Harvest Redis.csproj.CoreCompileInputs.cache
+C:\Users\misco\Desktop\Blue Harvest Redis\obj\Debug\net6.0\Blue Harvest Redis.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\misco\Desktop\Blue Harvest Redis\obj\Debug\net6.0\Blue Harvest Redis.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\misco\Desktop\Blue Harvest Redis\obj\Debug\net6.0\staticwebassets\msbuild.Blue Harvest Redis.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\misco\Desktop\Blue Harvest Redis\obj\Debug\net6.0\staticwebassets\msbuild.build.Blue Harvest Redis.props
+C:\Users\misco\Desktop\Blue Harvest Redis\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Blue Harvest Redis.props
+C:\Users\misco\Desktop\Blue Harvest Redis\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Blue Harvest Redis.props
+C:\Users\misco\Desktop\Blue Harvest Redis\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\misco\Desktop\Blue Harvest Redis\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\misco\Desktop\Blue Harvest Redis\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\misco\Desktop\Blue Harvest Redis\obj\Debug\net6.0\scopedcss\bundle\Blue Harvest Redis.styles.css
+C:\Users\misco\Desktop\Blue Harvest Redis\obj\Debug\net6.0\Blue Harvest Redis.csproj.CopyComplete
+C:\Users\misco\Desktop\Blue Harvest Redis\obj\Debug\net6.0\Blue Harvest Redis.dll
+C:\Users\misco\Desktop\Blue Harvest Redis\obj\Debug\net6.0\refint\Blue Harvest Redis.dll
+C:\Users\misco\Desktop\Blue Harvest Redis\obj\Debug\net6.0\Blue Harvest Redis.pdb
+C:\Users\misco\Desktop\Blue Harvest Redis\obj\Debug\net6.0\Blue Harvest Redis.genruntimeconfig.cache
+C:\Users\misco\Desktop\Blue Harvest Redis\obj\Debug\net6.0\ref\Blue Harvest Redis.dll
+C:\Users\misco\Desktop\Blue Harvest Redis\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\misco\Desktop\Blue Harvest Redis\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

@@ -1,0 +1,39 @@
+[
+  {
+    "Id": "1",
+    "Name": "Miscoci",
+    "SurName": "Luca",
+    "Accounts": []
+  },
+  {
+    "Id": "2",
+    "Name": "Miscoci",
+    "SurName": "Anne",
+    "Accounts": []
+  },
+  {
+    "Id": "3",
+    "Name": "Miscoci",
+    "SurName": "Dan",
+    "Accounts": [
+      {
+        "Id": "27d35b18-59fb-4817-a712-4e92e14ea33f",
+        "Balance": 100,
+        "Transactions": []
+      },
+      {
+        "Id": "27d35b18-59fb-4817-a712-4e92e14ea33d",
+        "Balance": 10,
+        "Transactions": [
+          {
+            "Id": "17d35b18-59fb-4817-a712-4e92e14ea32d",
+            "TransactionType": "INITIAL",
+            "Amount": 100,
+            "TransactionDate": "07-11-2023"
+
+          }
+        ]
+      }
+    ]
+  }
+]

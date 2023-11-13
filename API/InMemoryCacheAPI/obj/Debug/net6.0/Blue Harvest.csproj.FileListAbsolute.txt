@@ -1,0 +1,107 @@
+C:\Users\misco\Desktop\Blue Harvest Redis\obj\Debug\net6.0\Blue Harvest.csproj.AssemblyReference.cache
+C:\Users\misco\Desktop\Blue Harvest Redis\obj\Debug\net6.0\Blue Harvest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\misco\Desktop\Blue Harvest Redis\obj\Debug\net6.0\Blue Harvest.AssemblyInfoInputs.cache
+C:\Users\misco\Desktop\Blue Harvest Redis\obj\Debug\net6.0\Blue Harvest.AssemblyInfo.cs
+C:\Users\misco\Desktop\Blue Harvest Redis\obj\Debug\net6.0\Blue Harvest.csproj.CoreCompileInputs.cache
+C:\Users\misco\Desktop\Blue Harvest Redis\obj\Debug\net6.0\Blue Harvest.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\misco\Desktop\Blue Harvest Redis\obj\Debug\net6.0\Blue Harvest.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\misco\Desktop\Blue Harvest\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\misco\Desktop\Blue Harvest\bin\Debug\net6.0\appsettings.json
+C:\Users\misco\Desktop\Blue Harvest\bin\Debug\net6.0\Constants\customers.json
+C:\Users\misco\Desktop\Blue Harvest\bin\Debug\net6.0\Blue Harvest.exe
+C:\Users\misco\Desktop\Blue Harvest\bin\Debug\net6.0\Blue Harvest.deps.json
+C:\Users\misco\Desktop\Blue Harvest\bin\Debug\net6.0\Blue Harvest.runtimeconfig.json
+C:\Users\misco\Desktop\Blue Harvest\bin\Debug\net6.0\Blue Harvest.dll
+C:\Users\misco\Desktop\Blue Harvest\bin\Debug\net6.0\Blue Harvest.pdb
+C:\Users\misco\Desktop\Blue Harvest\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\misco\Desktop\Blue Harvest\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\misco\Desktop\Blue Harvest\bin\Debug\net6.0\Castle.Core.dll
+C:\Users\misco\Desktop\Blue Harvest\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\misco\Desktop\Blue Harvest\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\misco\Desktop\Blue Harvest\bin\Debug\net6.0\Moq.dll
+C:\Users\misco\Desktop\Blue Harvest\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\misco\Desktop\Blue Harvest\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\misco\Desktop\Blue Harvest\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\misco\Desktop\Blue Harvest\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\misco\Desktop\Blue Harvest\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\misco\Desktop\Blue Harvest\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\misco\Desktop\Blue Harvest\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\misco\Desktop\Blue Harvest\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\misco\Desktop\Blue Harvest\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\misco\Desktop\Blue Harvest\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\misco\Desktop\Blue Harvest\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\misco\Desktop\Blue Harvest\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\misco\Desktop\Blue Harvest\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\misco\Desktop\Blue Harvest\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\misco\Desktop\Blue Harvest\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\misco\Desktop\Blue Harvest\obj\Debug\net6.0\Blue Harvest.csproj.AssemblyReference.cache
+C:\Users\misco\Desktop\Blue Harvest\obj\Debug\net6.0\Blue Harvest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\misco\Desktop\Blue Harvest\obj\Debug\net6.0\Blue Harvest.AssemblyInfoInputs.cache
+C:\Users\misco\Desktop\Blue Harvest\obj\Debug\net6.0\Blue Harvest.AssemblyInfo.cs
+C:\Users\misco\Desktop\Blue Harvest\obj\Debug\net6.0\Blue Harvest.csproj.CoreCompileInputs.cache
+C:\Users\misco\Desktop\Blue Harvest\obj\Debug\net6.0\Blue Harvest.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\misco\Desktop\Blue Harvest\obj\Debug\net6.0\Blue Harvest.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\misco\Desktop\Blue Harvest\obj\Debug\net6.0\staticwebassets\msbuild.Blue Harvest.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\misco\Desktop\Blue Harvest\obj\Debug\net6.0\staticwebassets\msbuild.build.Blue Harvest.props
+C:\Users\misco\Desktop\Blue Harvest\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Blue Harvest.props
+C:\Users\misco\Desktop\Blue Harvest\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Blue Harvest.props
+C:\Users\misco\Desktop\Blue Harvest\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\misco\Desktop\Blue Harvest\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\misco\Desktop\Blue Harvest\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\misco\Desktop\Blue Harvest\obj\Debug\net6.0\scopedcss\bundle\Blue Harvest.styles.css
+C:\Users\misco\Desktop\Blue Harvest\obj\Debug\net6.0\Blue Harvest.csproj.CopyComplete
+C:\Users\misco\Desktop\Blue Harvest\obj\Debug\net6.0\Blue Harvest.dll
+C:\Users\misco\Desktop\Blue Harvest\obj\Debug\net6.0\refint\Blue Harvest.dll
+C:\Users\misco\Desktop\Blue Harvest\obj\Debug\net6.0\Blue Harvest.pdb
+C:\Users\misco\Desktop\Blue Harvest\obj\Debug\net6.0\Blue Harvest.genruntimeconfig.cache
+C:\Users\misco\Desktop\Blue Harvest\obj\Debug\net6.0\ref\Blue Harvest.dll
+C:\Users\misco\Desktop\Blue Harvest\API\InMemoryCacheAPI\obj\Debug\net6.0\Blue Harvest.csproj.AssemblyReference.cache
+C:\Users\misco\Desktop\Blue Harvest\API\InMemoryCacheAPI\obj\Debug\net6.0\Blue Harvest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\misco\Desktop\Blue Harvest\API\InMemoryCacheAPI\obj\Debug\net6.0\Blue Harvest.AssemblyInfoInputs.cache
+C:\Users\misco\Desktop\Blue Harvest\API\InMemoryCacheAPI\obj\Debug\net6.0\Blue Harvest.AssemblyInfo.cs
+C:\Users\misco\Desktop\Blue Harvest\API\InMemoryCacheAPI\obj\Debug\net6.0\Blue Harvest.csproj.CoreCompileInputs.cache
+C:\Users\misco\Desktop\Blue Harvest\API\InMemoryCacheAPI\obj\Debug\net6.0\Blue Harvest.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\misco\Desktop\Blue Harvest\API\InMemoryCacheAPI\obj\Debug\net6.0\Blue Harvest.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\misco\Desktop\Blue Harvest\API\InMemoryCacheAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\misco\Desktop\Blue Harvest\API\InMemoryCacheAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\misco\Desktop\Blue Harvest\API\InMemoryCacheAPI\bin\Debug\net6.0\Constants\customers.json
+C:\Users\misco\Desktop\Blue Harvest\API\InMemoryCacheAPI\bin\Debug\net6.0\Blue Harvest.exe
+C:\Users\misco\Desktop\Blue Harvest\API\InMemoryCacheAPI\bin\Debug\net6.0\Blue Harvest.deps.json
+C:\Users\misco\Desktop\Blue Harvest\API\InMemoryCacheAPI\bin\Debug\net6.0\Blue Harvest.runtimeconfig.json
+C:\Users\misco\Desktop\Blue Harvest\API\InMemoryCacheAPI\bin\Debug\net6.0\Blue Harvest.dll
+C:\Users\misco\Desktop\Blue Harvest\API\InMemoryCacheAPI\bin\Debug\net6.0\Blue Harvest.pdb
+C:\Users\misco\Desktop\Blue Harvest\API\InMemoryCacheAPI\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\misco\Desktop\Blue Harvest\API\InMemoryCacheAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\misco\Desktop\Blue Harvest\API\InMemoryCacheAPI\bin\Debug\net6.0\Castle.Core.dll
+C:\Users\misco\Desktop\Blue Harvest\API\InMemoryCacheAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\misco\Desktop\Blue Harvest\API\InMemoryCacheAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\misco\Desktop\Blue Harvest\API\InMemoryCacheAPI\bin\Debug\net6.0\Moq.dll
+C:\Users\misco\Desktop\Blue Harvest\API\InMemoryCacheAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\misco\Desktop\Blue Harvest\API\InMemoryCacheAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\misco\Desktop\Blue Harvest\API\InMemoryCacheAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\misco\Desktop\Blue Harvest\API\InMemoryCacheAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\misco\Desktop\Blue Harvest\API\InMemoryCacheAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\misco\Desktop\Blue Harvest\API\InMemoryCacheAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\misco\Desktop\Blue Harvest\API\InMemoryCacheAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\misco\Desktop\Blue Harvest\API\InMemoryCacheAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\misco\Desktop\Blue Harvest\API\InMemoryCacheAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\misco\Desktop\Blue Harvest\API\InMemoryCacheAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\misco\Desktop\Blue Harvest\API\InMemoryCacheAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\misco\Desktop\Blue Harvest\API\InMemoryCacheAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\misco\Desktop\Blue Harvest\API\InMemoryCacheAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\misco\Desktop\Blue Harvest\API\InMemoryCacheAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\misco\Desktop\Blue Harvest\API\InMemoryCacheAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\misco\Desktop\Blue Harvest\API\InMemoryCacheAPI\obj\Debug\net6.0\staticwebassets\msbuild.Blue Harvest.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\misco\Desktop\Blue Harvest\API\InMemoryCacheAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.Blue Harvest.props
+C:\Users\misco\Desktop\Blue Harvest\API\InMemoryCacheAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Blue Harvest.props
+C:\Users\misco\Desktop\Blue Harvest\API\InMemoryCacheAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Blue Harvest.props
+C:\Users\misco\Desktop\Blue Harvest\API\InMemoryCacheAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\misco\Desktop\Blue Harvest\API\InMemoryCacheAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\misco\Desktop\Blue Harvest\API\InMemoryCacheAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\misco\Desktop\Blue Harvest\API\InMemoryCacheAPI\obj\Debug\net6.0\scopedcss\bundle\Blue Harvest.styles.css
+C:\Users\misco\Desktop\Blue Harvest\API\InMemoryCacheAPI\obj\Debug\net6.0\Blue Harvest.csproj.CopyComplete
+C:\Users\misco\Desktop\Blue Harvest\API\InMemoryCacheAPI\obj\Debug\net6.0\Blue Harvest.dll
+C:\Users\misco\Desktop\Blue Harvest\API\InMemoryCacheAPI\obj\Debug\net6.0\refint\Blue Harvest.dll
+C:\Users\misco\Desktop\Blue Harvest\API\InMemoryCacheAPI\obj\Debug\net6.0\Blue Harvest.pdb
+C:\Users\misco\Desktop\Blue Harvest\API\InMemoryCacheAPI\obj\Debug\net6.0\Blue Harvest.genruntimeconfig.cache
+C:\Users\misco\Desktop\Blue Harvest\API\InMemoryCacheAPI\obj\Debug\net6.0\ref\Blue Harvest.dll

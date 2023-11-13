@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "KH3+Jnj4I3dul1T5q/3ztJ/TpnakvrB7dEsVXZ0bqJA=",
+  "Source": "AccountManagementRedis",
+  "BasePath": "_content/AccountManagementRedis",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
