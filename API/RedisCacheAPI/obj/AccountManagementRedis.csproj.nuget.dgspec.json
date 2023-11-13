@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\misco\\Desktop\\Account Management\\API\\RedisCacheAPI\\AccountManagementRedis.csproj": {}
+    "C:\\Users\\misco\\Desktop\\Accounts Manager\\Accounts-Manager\\API\\RedisCacheAPI\\AccountManagementRedis.csproj": {}
   },
   "projects": {
-    "C:\\Users\\misco\\Desktop\\Account Management\\API\\RedisCacheAPI\\AccountManagementRedis.csproj": {
+    "C:\\Users\\misco\\Desktop\\Accounts Manager\\Accounts-Manager\\API\\RedisCacheAPI\\AccountManagementRedis.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\misco\\Desktop\\Account Management\\API\\RedisCacheAPI\\AccountManagementRedis.csproj",
+        "projectUniqueName": "C:\\Users\\misco\\Desktop\\Accounts Manager\\Accounts-Manager\\API\\RedisCacheAPI\\AccountManagementRedis.csproj",
         "projectName": "AccountManagementRedis",
-        "projectPath": "C:\\Users\\misco\\Desktop\\Account Management\\API\\RedisCacheAPI\\AccountManagementRedis.csproj",
+        "projectPath": "C:\\Users\\misco\\Desktop\\Accounts Manager\\Accounts-Manager\\API\\RedisCacheAPI\\AccountManagementRedis.csproj",
         "packagesPath": "C:\\Users\\misco\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\misco\\Desktop\\Account Management\\API\\RedisCacheAPI\\obj\\",
+        "outputPath": "C:\\Users\\misco\\Desktop\\Accounts Manager\\Accounts-Manager\\API\\RedisCacheAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

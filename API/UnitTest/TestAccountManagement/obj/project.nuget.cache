@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mVHqStRx5p/RXuxOlrJ52hPbrPo1eHHi0yZwg3X+28OhxYsear2ZNro10GEECiO16l6dN8SFZlPWQ9XJ7lhc0w==",
+  "dgSpecHash": "3pq52MGxhYUuQRBlcY2epKdHxq3fmNZH2ewW2gSq+mpjy3WrG1owA1OaCnqhQcmYStIVDhlMVBIyY9F7/PmAlQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\misco\\Desktop\\Account Management\\API\\UnitTest\\TestAccountManagement\\TestAccountManagement.csproj",
+  "projectFilePath": "C:\\Users\\misco\\Desktop\\Accounts Manager\\Accounts-Manager\\API\\UnitTest\\TestAccountManagement\\TestAccountManagement.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\misco\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\misco\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

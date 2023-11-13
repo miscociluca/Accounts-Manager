@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aL+/WGGZwyK1Urr4d+qHjiS/yEeWqIGgYCdkIazPF9Teuv8Y8FqxvdD1T+5pQxSlaPOM2WdtcYx4wySZjmFH/g==",
+  "dgSpecHash": "8XGo0ZN4rER+wvQp3YXhstiP1WjRGXcj4RuY1g3Hn685KWL+iEGP7rzGrMUdxuZppDlGyax9NcxJs2hxuUMvZw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\misco\\Desktop\\Account Management\\API\\InMemoryCacheAPI\\AccountManagement.csproj",
+  "projectFilePath": "C:\\Users\\misco\\Desktop\\Accounts Manager\\Accounts-Manager\\API\\InMemoryCacheAPI\\AccountManagement.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\misco\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\misco\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\misco\\Desktop\\Account Management\\API\\InMemoryCacheAPI\\AccountManagement.csproj": {}
+    "C:\\Users\\misco\\Desktop\\Accounts Manager\\Accounts-Manager\\API\\InMemoryCacheAPI\\AccountManagement.csproj": {}
   },
   "projects": {
-    "C:\\Users\\misco\\Desktop\\Account Management\\API\\InMemoryCacheAPI\\AccountManagement.csproj": {
+    "C:\\Users\\misco\\Desktop\\Accounts Manager\\Accounts-Manager\\API\\InMemoryCacheAPI\\AccountManagement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\misco\\Desktop\\Account Management\\API\\InMemoryCacheAPI\\AccountManagement.csproj",
+        "projectUniqueName": "C:\\Users\\misco\\Desktop\\Accounts Manager\\Accounts-Manager\\API\\InMemoryCacheAPI\\AccountManagement.csproj",
         "projectName": "AccountManagement",
-        "projectPath": "C:\\Users\\misco\\Desktop\\Account Management\\API\\InMemoryCacheAPI\\AccountManagement.csproj",
+        "projectPath": "C:\\Users\\misco\\Desktop\\Accounts Manager\\Accounts-Manager\\API\\InMemoryCacheAPI\\AccountManagement.csproj",
         "packagesPath": "C:\\Users\\misco\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\misco\\Desktop\\Account Management\\API\\InMemoryCacheAPI\\obj\\",
+        "outputPath": "C:\\Users\\misco\\Desktop\\Accounts Manager\\Accounts-Manager\\API\\InMemoryCacheAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dstPK7gNJewPWdP3+tTUjiIzGebuDoFExueTdeYn/UoMzmwsqI894pxw+UKx8h2Nqd1jh95+HcQ4Dl3BK2vWTw==",
+  "dgSpecHash": "j4pSttdGQhGXpkCA46mkyMhov5TghSR+cVRhjiRojWnuqlBRa1p4ecg8lBYJrOssSXfzBAPFp6YlEgQj/4vPjw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\misco\\Desktop\\Account Management\\API\\RedisCacheAPI\\AccountManagementRedis.csproj",
+  "projectFilePath": "C:\\Users\\misco\\Desktop\\Accounts Manager\\Accounts-Manager\\API\\RedisCacheAPI\\AccountManagementRedis.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\misco\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\misco\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
