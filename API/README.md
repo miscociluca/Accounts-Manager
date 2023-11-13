@@ -2,8 +2,10 @@
 # .NET Core Accounts Manager Project
 
 There are 2 Projects for Backend of Account Manager Project:
-1) In InMemoryCacheAPI folder AccountManagement that uses System.Runtime.Caching for Cache
-2) In RedisCacheAPI folder, Account ManagementRedis that uses StackExchange.Redis
+1) In InMemoryCacheAPI folder there is AccountManagement API that uses System.Runtime.Caching for Cache for storing the information
+   
+2) In RedisCacheAPI folder, there is  Account ManagementRedis API  that uses StackExchange.Redis for storing the information
+   
 This leverages .NET 6. You can learn .NET 6 more on [ASP.NET Core minimal APIs](https://www.dotnetthailand.com/web-frameworks/asp-net-core/asp-net-core-minimal-apis).
 
 ## Versioning
@@ -90,7 +92,7 @@ followed by
 $ dotnet test
 ```
 
-## Deploying a .NET Core Web API microservice on Kubernetes
+## Deploying .NET Core API  on Kubernetes
 
 ### Prerequisite:
 
