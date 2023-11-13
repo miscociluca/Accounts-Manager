@@ -31,10 +31,7 @@ class Customer extends Component {
         const body = await response.json();
         this.setState({customers: body});
     }
-
-    handleOpen = () => this.setState({openTransactionsModal: true});
-    handleClose = () => this.setState({openTransactionsModal: false});
-
+    
     render() {
         const {customers} = this.state;
         return (
