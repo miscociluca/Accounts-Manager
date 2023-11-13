@@ -90,7 +90,7 @@ followed by
 $ dotnet test
 ```
 
-## Deploying a .NET Core Web API microservice on Kubernetes
+## Deploying .NET Core API  on Kubernetes
 
 ### Prerequisite:
 
