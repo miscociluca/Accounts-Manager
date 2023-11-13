@@ -1,0 +1,18 @@
+﻿apiVersion: networking.k8s.io/v1
+kind: Ingress
+metadata:
+  name: AccountManagementRedis
+  namespace: default
+  annotations:
+    nginx.ingress.kubernetes.io/rewrite-target: /
+spec:
+  rules:
+  - http:
+      paths:
+      - path: /dotnet
+        pathType: Prefix
+        backend:
+          service:
+            name: AccountManagementRedis
+            port:
+              number: 8090

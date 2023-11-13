@@ -1,0 +1,53 @@
+﻿apiVersion: apps/v1
+kind: Deployment
+metadata:
+  labels:
+    app: AccountManagementRedis
+  name: AccountManagementRedis
+  namespace: default
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: AccountManagementRedis
+  strategy: {}
+  template:
+    metadata:
+      labels:
+        app: AccountManagementRedis
+    spec:
+      containers:
+      - image: demostyava.azurecr.io/AccountManagementRedis:1.0.0
+        name: AccountManagementRedis
+        resources: {}
+        env: 
+        - name: ASPNETCORE_URLS
+          value: "http://*:8090"
+        - name: ASPNETCORE_ENVIRONMENT
+          value: "Production"
+        livenessProbe:
+          httpGet:
+            path: /health
+            port: 8090
+            scheme: HTTP
+          initialDelaySeconds: 10
+          periodSeconds: 10
+        readinessProbe:
+          httpGet:
+            path: /health
+            port: 8090
+            scheme: HTTP    
+          initialDelaySeconds: 10
+          periodSeconds: 10      
+        ports:
+        - containerPort: 8090
+        volumeMounts:
+        - name: appvolume
+          mountPath: "/app/appsettings.Production.json"
+          subPath: "appsettings.Production.json"
+        imagePullPolicy: Always
+      volumes:
+        - name: appvolume
+          configMap:
+            name: appsettings
+status: {}

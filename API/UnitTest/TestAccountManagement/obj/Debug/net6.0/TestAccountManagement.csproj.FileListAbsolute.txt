@@ -691,3 +691,4 @@ C:\Users\misco\Desktop\Accounts Manager\Accounts-Manager\API\UnitTest\TestAccoun
 C:\Users\misco\Desktop\Accounts Manager\Accounts-Manager\API\UnitTest\TestAccountManagement\obj\Debug\net6.0\TestAccountManagement.pdb
 C:\Users\misco\Desktop\Accounts Manager\Accounts-Manager\API\UnitTest\TestAccountManagement\obj\Debug\net6.0\TestAccountManagement.genruntimeconfig.cache
 C:\Users\misco\Desktop\Accounts Manager\Accounts-Manager\API\UnitTest\TestAccountManagement\obj\Debug\net6.0\ref\TestAccountManagement.dll
+C:\Users\misco\Desktop\Accounts Manager\Accounts-Manager\API\UnitTest\TestAccountManagement\bin\Debug\net6.0\configs\prod\appsettings.Production.json

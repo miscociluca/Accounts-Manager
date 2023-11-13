@@ -248,3 +248,4 @@ C:\Users\misco\Desktop\Accounts Manager\Accounts-Manager\API\InMemoryCacheAPI\ob
 C:\Users\misco\Desktop\Accounts Manager\Accounts-Manager\API\InMemoryCacheAPI\obj\Debug\net6.0\AccountManagement.pdb
 C:\Users\misco\Desktop\Accounts Manager\Accounts-Manager\API\InMemoryCacheAPI\obj\Debug\net6.0\AccountManagement.genruntimeconfig.cache
 C:\Users\misco\Desktop\Accounts Manager\Accounts-Manager\API\InMemoryCacheAPI\obj\Debug\net6.0\ref\AccountManagement.dll
+C:\Users\misco\Desktop\Accounts Manager\Accounts-Manager\API\InMemoryCacheAPI\bin\Debug\net6.0\configs\prod\appsettings.Production.json

@@ -1,0 +1,16 @@
+﻿apiVersion: v1
+kind: Service
+metadata:
+  labels:
+    app: AccountManagement
+  name: AccountManagement
+  namespace: default
+  annotations:
+    dev.okteto.com/auto-ingress: "true"
+spec:
+  ports:
+  - port: 8090
+    protocol: TCP
+    targetPort: 8090
+  selector:
+    app: AccountManagement

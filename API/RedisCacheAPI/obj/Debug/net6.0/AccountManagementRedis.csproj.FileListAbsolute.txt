@@ -298,3 +298,4 @@ C:\Users\misco\Desktop\Accounts Manager\Accounts-Manager\API\RedisCacheAPI\obj\D
 C:\Users\misco\Desktop\Accounts Manager\Accounts-Manager\API\RedisCacheAPI\obj\Debug\net6.0\AccountManagementRedis.pdb
 C:\Users\misco\Desktop\Accounts Manager\Accounts-Manager\API\RedisCacheAPI\obj\Debug\net6.0\AccountManagementRedis.genruntimeconfig.cache
 C:\Users\misco\Desktop\Accounts Manager\Accounts-Manager\API\RedisCacheAPI\obj\Debug\net6.0\ref\AccountManagementRedis.dll
+C:\Users\misco\Desktop\Accounts Manager\Accounts-Manager\API\RedisCacheAPI\bin\Debug\net6.0\configs\prod\appsettings.Production.json
