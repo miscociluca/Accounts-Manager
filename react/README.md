@@ -1,6 +1,7 @@
-# Getting Started with Account Manager REACT APP
+# Getting Started with Account Manager Frontend App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+It is used to list customers and to add new accounts to existing customers
 
 ## Available Scripts
 
