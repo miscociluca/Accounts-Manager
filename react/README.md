@@ -1,4 +1,4 @@
-# Getting Started with Account Manager 
+# Getting Started with Account Manager REACT APP
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
